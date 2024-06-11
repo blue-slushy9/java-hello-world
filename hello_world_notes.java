@@ -15,8 +15,8 @@ public class HelloWorld {
     the main method doesn't return any value; 'main' is the method name, the
     text inside the parentheses specifies the argument types, in this case
     'String[] args' means the program takes an array of strings, which can
-    be provided at the command but not in this case; every Java program must
-    have a 'main' method, similar to C */
+    be provided at the command line but not in this case; 
+    every Java program must have a 'main' method, similar to C */
     public static void main(String[] args) {
         /*  'System' is a predefined class in Java that provides functionalities
         for system interactions, e.g. input and output streams; 'out' is a
