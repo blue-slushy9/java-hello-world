@@ -6,9 +6,9 @@ as in Python, a 'class' is a blueprint or template used to create instances
 of that same class type, e.g. HelloWorld */
 public class HelloWorld {
     /* 'public ... args)' is a method signature that serves as the entry point
-    // to your program; main is always public because it is where the program
-    // begins, and so it needs to be accessible by the program as a whole;
-    // 'static' indicates that the method belongs to the class itself, rather
+    to your program; main is always public because it is where the program
+    begins, and so it needs to be accessible by the program as a whole;
+    'static' indicates that the method belongs to the class itself, rather
     than any instances thereof, which in turn means you can call the main
     method directly using the class name without needing to create an object;
     'void' is the return type of the main method, meaning that in this case
